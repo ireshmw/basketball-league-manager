@@ -49,6 +49,9 @@ http://localhost:8000/api/v1/coach-players-above-avg/3/
 view all the team (include hyperlinks to player list of the team)  
 http://localhost:8000/api/v1/teams/
 
+## ER Diagram
+
+![alt text](https://github.com/ireshmw/basketball-league-manager/blob/master/data_game.png)
 
 
 
