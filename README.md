@@ -30,17 +30,17 @@ http://127.0.0.1:8000/api/v1/games
 
 ### Coach
 
-get a team of the coach, here path variable is coach-id (include hyperlinks to player list of the team)  
-http://localhost:8000/api/v1/coach-team/2/  
+get a team of the coach, here path variable is coach-id  (include hyperlinks to player list of the team)  
+http://localhost:8000/api/v1/coach-team/3/  
 
 get payer list of the coach, here path variable is coach-id  
-http://localhost:8000/api/v1/coach-players/2/  
+http://localhost:8000/api/v1/coach-players/1/  
 
 full details of the player, here path variable is player-id  
-http://localhost:8000/api/v1/player/2/
+http://localhost:8000/api/v1/player/1/
 
 Get Above 90 Percentile Players Of Coach, here path variable is coach-id  
-http://localhost:8000/api/v1/coach-players-above-avg/5/
+http://localhost:8000/api/v1/coach-players-above-avg/3/
 
 
 
