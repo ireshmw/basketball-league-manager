@@ -1,0 +1,868 @@
+[{
+  "model": "data.UserType",
+  "pk": 1,
+  "fields": {
+    "type": "admin"
+  }
+}, {
+  "model": "data.UserType",
+  "pk": 2,
+  "fields": {
+    "type": "league-admin"
+  }
+}, {
+  "model": "data.UserType",
+  "pk": 3,
+  "fields": {
+    "type": "coach"
+  }
+}, {
+  "model": "data.UserType",
+  "pk": 4,
+  "fields": {
+    "type": "user"
+  }
+},
+
+
+
+
+
+
+{
+  "model": "data.user",
+  "pk": 1,
+  "fields": {
+    "first_name": "Amet.ppt",
+    "last_name": "Lesper",
+    "height": 180,
+    "create_date": "2022-05-23",
+    "user_type_id": 1
+  }
+}, {
+  "model": "data.user",
+  "pk": 2,
+  "fields": {
+    "first_name": "Habitasse.mp3",
+    "last_name": "Berends",
+    "height": 204,
+    "create_date": "2022-08-10",
+    "user_type_id": 2
+  }
+}, {
+  "model": "data.user",
+  "pk": 3,
+  "fields": {
+    "first_name": "Urna.avi",
+    "last_name": "Stanyforth",
+    "height": 165,
+    "create_date": "2022-08-14",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 4,
+  "fields": {
+    "first_name": "LoremVitae.ppt",
+    "last_name": "Jakubovski",
+    "height": 200,
+    "create_date": "2022-08-18",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 5,
+  "fields": {
+    "first_name": "Sit.txt",
+    "last_name": "Schaffler",
+    "height": 213,
+    "create_date": "2022-08-15",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 6,
+  "fields": {
+    "first_name": "PrimisInFaucibus.ppt",
+    "last_name": "O'Leary",
+    "height": 201,
+    "create_date": "2022-04-15",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 7,
+  "fields": {
+    "first_name": "EuMagna.png",
+    "last_name": "Dewdney",
+    "height": 207,
+    "create_date": "2022-05-03",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 8,
+  "fields": {
+    "first_name": "DonecOdio.mov",
+    "last_name": "Ceyssen",
+    "height": 218,
+    "create_date": "2022-05-20",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 9,
+  "fields": {
+    "first_name": "Venenatis.gif",
+    "last_name": "O'Heyne",
+    "height": 185,
+    "create_date": "2022-03-01",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 10,
+  "fields": {
+    "first_name": "NecSemDuis.txt",
+    "last_name": "Yewdell",
+    "height": 161,
+    "create_date": "2022-06-29",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 11,
+  "fields": {
+    "first_name": "Id.png",
+    "last_name": "Bhatia",
+    "height": 212,
+    "create_date": "2022-08-14",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 12,
+  "fields": {
+    "first_name": "FaucibusCursusUrna.tiff",
+    "last_name": "Sclanders",
+    "height": 193,
+    "create_date": "2022-01-11",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 13,
+  "fields": {
+    "first_name": "SuscipitNulla.tiff",
+    "last_name": "Huggins",
+    "height": 198,
+    "create_date": "2021-11-27",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 14,
+  "fields": {
+    "first_name": "InFelis.txt",
+    "last_name": "Spehr",
+    "height": 161,
+    "create_date": "2021-12-05",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 15,
+  "fields": {
+    "first_name": "Consequat.mov",
+    "last_name": "Hold",
+    "height": 198,
+    "create_date": "2021-12-18",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 16,
+  "fields": {
+    "first_name": "Quis.ppt",
+    "last_name": "Roff",
+    "height": 201,
+    "create_date": "2022-02-19",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 17,
+  "fields": {
+    "first_name": "Posuere.ppt",
+    "last_name": "Hryniewicz",
+    "height": 175,
+    "create_date": "2022-08-25",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 18,
+  "fields": {
+    "first_name": "MollisMolestieLorem.mpeg",
+    "last_name": "Rudeforth",
+    "height": 190,
+    "create_date": "2022-08-25",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 19,
+  "fields": {
+    "first_name": "MattisNibh.ppt",
+    "last_name": "Funcheon",
+    "height": 177,
+    "create_date": "2022-07-01",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 20,
+  "fields": {
+    "first_name": "APedePosuere.xls",
+    "last_name": "Fleg",
+    "height": 204,
+    "create_date": "2021-11-19",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 21,
+  "fields": {
+    "first_name": "NamDui.ppt",
+    "last_name": "Ferrant",
+    "height": 204,
+    "create_date": "2021-10-20",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 22,
+  "fields": {
+    "first_name": "ConsequatDuiNec.avi",
+    "last_name": "Bedbury",
+    "height": 186,
+    "create_date": "2021-10-21",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 23,
+  "fields": {
+    "first_name": "DiamInMagna.mp3",
+    "last_name": "Kremer",
+    "height": 188,
+    "create_date": "2022-02-28",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 24,
+  "fields": {
+    "first_name": "MaurisNon.ppt",
+    "last_name": "Krink",
+    "height": 170,
+    "create_date": "2022-05-09",
+    "user_type_id": 4
+  }
+}, {
+  "model": "data.user",
+  "pk": 25,
+  "fields": {
+    "first_name": "Coach -25",
+    "last_name": "Krink",
+    "height": 170,
+    "create_date": "2022-05-09",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 26,
+  "fields": {
+    "first_name": "Coach -26",
+    "last_name": "Krink",
+    "height": 170,
+    "create_date": "2022-05-09",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 27,
+  "fields": {
+    "first_name": "Coach -27",
+    "last_name": "Krink",
+    "height": 170,
+    "create_date": "2022-05-09",
+    "user_type_id": 3
+  }
+}, {
+  "model": "data.user",
+  "pk": 28,
+  "fields": {
+    "first_name": "Coach -28",
+    "last_name": "Krink",
+    "height": 170,
+    "create_date": "2022-05-09",
+    "user_type_id": 3
+  }
+},
+
+
+
+
+
+{
+  "model": "data.team",
+  "pk": 1,
+  "fields": {
+    "team_name": "Team - 1",
+    "coach_id": 3
+  }
+}, {
+  "model": "data.team",
+  "pk": 2,
+  "fields": {
+    "team_name": "Team - 2",
+    "coach_id": 4
+  }
+}, {
+  "model": "data.team",
+  "pk": 3,
+  "fields": {
+    "team_name": "Team - 3",
+    "coach_id": 5
+  }
+}, {
+  "model": "data.team",
+  "pk": 4,
+  "fields": {
+    "team_name": "Team - 4 ",
+    "coach_id": 6
+  }
+},{
+  "model": "data.team",
+  "pk": 5,
+  "fields": {
+    "team_name": "Team - 5",
+    "coach_id": 25
+  }
+}, {
+  "model": "data.team",
+  "pk": 6,
+  "fields": {
+    "team_name": "Team - 6",
+    "coach_id": 26
+  }
+}, {
+  "model": "data.team",
+  "pk": 7,
+  "fields": {
+    "team_name": "Team - 7",
+    "coach_id": 27
+  }
+}, {
+  "model": "data.team",
+  "pk": 8,
+  "fields": {
+    "team_name": "Team - 8",
+    "coach_id": 28
+  }
+},
+
+
+
+
+
+
+
+
+{
+  "model": "data.player",
+  "pk": 1,
+  "fields": {
+    "team_id": 1,
+    "user_id": 7
+  }
+}, {
+  "model": "data.player",
+  "pk": 2,
+  "fields": {
+    "team_id": 1,
+    "user_id": 8
+  }
+}, {
+  "model": "data.player",
+  "pk": 3,
+  "fields": {
+    "team_id": 1,
+    "user_id": 9
+  }
+}, {
+  "model": "data.player",
+  "pk": 4,
+  "fields": {
+    "team_id": 1,
+    "user_id": 10
+  }
+}, {
+  "model": "data.player",
+  "pk": 5,
+  "fields": {
+    "team_id": 2,
+    "user_id": 11
+  }
+}, {
+  "model": "data.player",
+  "pk": 6,
+  "fields": {
+    "team_id": 2,
+    "user_id": 12
+  }
+}, {
+  "model": "data.player",
+  "pk": 7,
+  "fields": {
+    "team_id": 2,
+    "user_id": 13
+  }
+}, {
+  "model": "data.player",
+  "pk": 8,
+  "fields": {
+    "team_id": 2,
+    "user_id": 14
+  }
+}, {
+  "model": "data.player",
+  "pk": 9,
+  "fields": {
+    "team_id": 3,
+    "user_id": 15
+  }
+}, {
+  "model": "data.player",
+  "pk": 10,
+  "fields": {
+    "team_id": 3,
+    "user_id": 16
+  }
+}, {
+  "model": "data.player",
+  "pk": 11,
+  "fields": {
+    "team_id": 3,
+    "user_id": 17
+  }
+}, {
+  "model": "data.player",
+  "pk": 12,
+  "fields": {
+    "team_id": 3,
+    "user_id": 18
+  }
+}, {
+  "model": "data.player",
+  "pk": 13,
+  "fields": {
+    "team_id": 4,
+    "user_id": 19
+  }
+}, {
+  "model": "data.player",
+  "pk": 14,
+  "fields": {
+    "team_id": 4,
+    "user_id": 20
+  }
+}, {
+  "model": "data.player",
+  "pk": 15,
+  "fields": {
+    "team_id": 4,
+    "user_id": 21
+  }
+}, {
+  "model": "data.player",
+  "pk": 16,
+  "fields": {
+    "team_id": 4,
+    "user_id": 22
+  }
+}, {
+  "model": "data.player",
+  "pk": 17,
+  "fields": {
+    "team_id": 8,
+    "user_id": 23
+  }
+}, {
+  "model": "data.player",
+  "pk": 18,
+  "fields": {
+    "team_id": 8,
+    "user_id": 24
+  }
+},
+
+
+
+
+
+
+{
+  "model": "data.PlayRound",
+  "pk": 1,
+  "fields": {
+    "play_round_name": "Play Round - 1",
+    "create_date": "2021-09-27"
+  }
+}, {
+  "model": "data.PlayRound",
+  "pk": 2,
+  "fields": {
+    "play_round_name": "Play Round - 2",
+    "create_date": "2022-09-27"
+  }
+}, {
+  "model": "data.PlayRound",
+  "pk": 3,
+  "fields": {
+    "play_round_name": "Play Round - 3",
+    "create_date": "2022-09-28"
+  }
+},
+
+
+
+
+
+
+{
+  "pk": 1,
+  "fields": {
+    "play_round_id": 1,
+    "game_date": "2022-09-27",
+    "game_name": "Game - 1"
+  },
+  "model": "data.game"
+}, {
+  "pk": 2,
+  "fields": {
+    "play_round_id": 1,
+    "game_date": "2022-09-27",
+    "game_name": "Game -2"
+  },
+  "model": "data.game"
+}, {
+  "pk": 3,
+  "fields": {
+    "play_round_id":1,
+    "game_date": "2022-09-27",
+    "game_name": "Game -3"
+  },
+  "model": "data.game"
+}, {
+  "pk": 4,
+  "fields": {
+    "play_round_id": 1,
+    "game_date": "2022-09-27",
+    "game_name": "Game -4"
+  },
+  "model": "data.game"
+},
+{
+  "pk": 5,
+  "fields": {
+    "play_round_id": 2,
+    "game_date": "2022-09-27",
+    "game_name": "Game -5"
+  },
+  "model": "data.game"
+}, {
+  "pk": 6,
+  "fields": {
+    "play_round_id": 2,
+    "game_date": "2022-09-27",
+    "game_name": "Game -6"
+  },
+  "model": "data.game"
+}, {
+  "pk": 7,
+  "fields": {
+    "play_round_id": 3,
+    "game_date": "2022-09-28",
+    "game_name": "Game -7"
+  },
+  "model": "data.game"
+},
+
+
+
+
+{
+  "pk": 1,
+  "fields": {
+    "score": 30,
+    "game_id": 1,
+    "team_id": 1
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 2,
+  "fields": {
+    "score": 25,
+    "game_id": 1,
+    "team_id": 2
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 3,
+  "fields": {
+    "score": 40,
+    "game_id": 2,
+    "team_id": 3
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 4,
+  "fields": {
+    "score": 20,
+    "game_id": 2,
+    "team_id": 4
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 5,
+  "fields": {
+    "score": 13,
+    "game_id": 3,
+    "team_id": 5
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 6,
+  "fields": {
+    "score": 26,
+    "game_id": 3,
+    "team_id": 6
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 7,
+  "fields": {
+    "score": 20,
+    "game_id": 4,
+    "team_id": 7
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 8,
+  "fields": {
+    "score": 15,
+    "game_id": 4,
+    "team_id": 8
+  },
+  "model": "data.GameTeam"
+}
+
+
+, {
+  "pk": 9,
+  "fields": {
+    "score": 24,
+    "game_id": 5,
+    "team_id": 1
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 10,
+  "fields": {
+    "score": 25,
+    "game_id": 5,
+    "team_id": 3
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 11,
+  "fields": {
+    "score": 30,
+    "game_id": 6,
+    "team_id": 6
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 12,
+  "fields": {
+    "score": 15,
+    "game_id": 6,
+    "team_id": 8
+  },
+  "model": "data.GameTeam"
+}
+
+
+, {
+  "pk": 13,
+  "fields": {
+    "score": 26,
+    "game_id": 7,
+    "team_id": 1
+  },
+  "model": "data.GameTeam"
+}, {
+  "pk": 14,
+  "fields": {
+    "score": 16,
+    "game_id": 7,
+    "team_id": 8
+  },
+  "model": "data.GameTeam"
+},
+
+
+
+
+
+
+
+
+
+
+{
+  "id": 1,
+  "fields": {
+    "game_team_id": 1,
+    "player_id": 1,
+    "score": 8
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 2,
+  "fields": {
+    "game_team_id": 1,
+    "player_id": 2,
+    "score": 5
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 3,
+  "fields": {
+    "game_team_id": 1,
+    "player_id": 3,
+    "score": 6
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 4,
+  "fields": {
+    "game_team_id": 1,
+    "player_id": 4,
+    "score": 15
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 5,
+  "fields": {
+    "game_team_id": 2,
+    "player_id": 5,
+    "score": 6
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 6,
+  "fields": {
+    "game_team_id": 2,
+    "player_id": 6,
+    "score": 9
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 7,
+  "fields": {
+    "game_team_id": 2,
+    "player_id": 7,
+    "score": 13
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 8,
+  "fields": {
+    "game_team_id": 2,
+    "player_id": 8,
+    "score": 15
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 9,
+  "fields": {
+    "game_team_id": 3,
+    "player_id": 9,
+    "score": 12
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 10,
+  "fields": {
+    "game_team_id": 3,
+    "player_id": 10,
+    "score": 7
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 11,
+  "fields": {
+    "game_team_id": 3,
+    "player_id": 11,
+    "score": 6
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 12,
+  "fields": {
+    "game_team_id": 3,
+    "player_id": 12,
+    "score": 6
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 13,
+  "fields": {
+    "game_team_id": 4,
+    "player_id": 13,
+    "score": 14
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 14,
+  "fields": {
+    "game_team_id": 4,
+    "player_id": 14,
+    "score": 11
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 15,
+  "fields": {
+    "game_team_id": 4,
+    "player_id": 15,
+    "score": 10
+  },
+  "model": "data.GamePlayer"
+}, {
+  "id": 16,
+  "fields": {
+    "game_team_id": 4,
+    "player_id": 16,
+    "score": 11
+  },
+  "model": "data.GamePlayer"
+}
+
+
+]
+
+
